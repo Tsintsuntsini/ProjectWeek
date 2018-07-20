@@ -77,6 +77,8 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Fetal Brain Segmentation and Volumization](./Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg, Denis Kikinov and Wenyao Xia)
 + [Interactive Segmentatin Using SegmentEditor](./Projects/InteractiveSegmentation/README.md) (Houssem Gueziri)
 + [Brain Ventricle Segmentation](./Projects/BrainVentricleSegment/README.md) (Hassan Haddad)
++ [Lung Defect Grading, Registration, Segmentation](./Projects/Ventilation_Defect_Seg_Reg/README.md) (Andrew Westcott, Alex Matheson)
+
 
 ### Core infrastructure
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
